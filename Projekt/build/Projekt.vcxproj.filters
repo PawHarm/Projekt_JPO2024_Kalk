@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_bin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_float.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_hex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_octa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B7949B13-975D-322E-B6BE-AC19EE5CD231}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,119 @@
+﻿  kalkulator.cpp
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_octa.h(36,20): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_bin.h(34,20): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_hex.h(21,14): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(339,35): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(339,26): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(339,25): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(371,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(378,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(378,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(378,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(388,37): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(388,28): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(388,27): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(395,26): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(415,21): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(426,19): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(443,29): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator.cpp”)
+  
+  kalkulator_bin.cpp
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_bin.h(34,20): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator_bin.cpp”)
+  
+  kalkulator_hex.cpp
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_hex.h(21,14): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator_hex.cpp”)
+  
+  kalkulator_octa.cpp
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_octa.h(36,20): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../kalkulator_octa.cpp”)
+  
+  main.cpp
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_octa.h(36,20): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_bin.h(34,20): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator_hex.h(21,14): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(339,35): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(339,26): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(339,25): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(371,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(378,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(378,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(378,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(388,37): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(388,28): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(388,27): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(395,26): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(415,21): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(426,19): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(443,29): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „../main.cpp”)
+  
+  Generowanie kodu...
+C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\kalkulator.h(146): warning C4715: "kalkulator::getInt”: niewszystkie ścieżki kodu zwracają wartość
+  ProjektLibrary.vcxproj -> C:\Users\harma\OneDrive\Documents\Projekty\VS\Projekt\Projekt\build\Debug\ProjektLibrary.lib

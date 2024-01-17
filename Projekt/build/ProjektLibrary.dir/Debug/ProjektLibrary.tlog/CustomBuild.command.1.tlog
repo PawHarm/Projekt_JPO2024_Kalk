@@ -1,0 +1,10 @@
+^C:\USERS\HARMA\ONEDRIVE\DOCUMENTS\PROJEKTY\VS\PROJEKT\PROJEKT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt -BC:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt/build --check-stamp-file C:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,28 @@
+cmake_minimum_required(VERSION 3.10)
+project(Projekt_GTest)
+
+set(CMAKE_CXX_STANDARD 17)
+
+# Dodaj pliki źródłowe
+set(SOURCE_FILES
+    test.cpp
+)
+
+# Dodaj nagłówki
+set(HEADER_FILES
+    pch.h
+)
+
+
+add_executable(Projekt_GTest ${SOURCE_FILES} ${HEADER_FILES})
+
+
+find_package(GTest REQUIRED)
+
+
+target_include_directories(Projekt_GTest PRIVATE ${GTEST_INCLUDE_DIRS})
+
+target_include_directories(Projekt_GTest PRIVATE ${CMAKE_SOURCE_DIR}/Projekt)
+
+
+target_link_libraries(Projekt_GTest PRIVATE gtest gtest_main ProjektLibrary)

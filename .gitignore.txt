@@ -1,0 +1,10 @@
+# Ignoruj pliki tymczasowe
+*~
+
+# Ignoruj pliki kompilowane
+*.o
+*.out
+*.exe
+
+# Ignoruj pliki konfiguracyjne
+CMakeLists.txt.user

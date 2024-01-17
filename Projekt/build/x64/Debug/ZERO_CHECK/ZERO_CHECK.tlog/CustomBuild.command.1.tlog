@@ -1,0 +1,10 @@
+^C:\USERS\HARMA\ONEDRIVE\DOCUMENTS\PROJEKTY\VS\PROJEKT\PROJEKT\BUILD\CMAKEFILES\F4B3880ED644AB4035DFCD935E05223D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt -BC:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt/build/Projekt.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

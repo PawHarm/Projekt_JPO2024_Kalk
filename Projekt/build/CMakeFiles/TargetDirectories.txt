@@ -1,0 +1,4 @@
+C:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt/build/CMakeFiles/ProjektLibrary.dir
+C:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt/build/CMakeFiles/Projekt.dir
+C:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt/build/CMakeFiles/ZERO_CHECK.dir

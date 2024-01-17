@@ -1,0 +1,2 @@
+C:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt_GTest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/harma/OneDrive/Documents/Projekty/VS/Projekt/Projekt_GTest/build/CMakeFiles/ZERO_CHECK.dir
